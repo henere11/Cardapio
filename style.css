@@ -1,13 +1,15 @@
-
-@import url('https://fonts.googleapis.com/css2?family=Kalnia:wght@100..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Asset&family=Climate+Crisis&family=DM+Serif+Display:ital@0;1&family=Odor+Mean+Chey&display=swap');
 
 body{
     color: #222222;
     margin: 0;
     font-family: "Barlow";
     width: 100%;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: normal;
+    ;
 }
-
 a{
     text-decoration: none;
     color: #222222;
